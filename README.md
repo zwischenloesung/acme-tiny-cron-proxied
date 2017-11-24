@@ -3,6 +3,11 @@ Role Name
 
 A brief description of the role goes here.
 
+STATUS
+------
+
+Development has moved to inofix.acme-\*
+
 Requirements
 ------------
 
